@@ -1,5 +1,7 @@
 Sparse Matrix Operations
+
 Overview
+
 This project implements a Sparse Matrix class in Python that supports basic matrix operations including addition, subtraction, multiplication, and transposition. The implementation is optimized for handling large matrices where most elements are zero.
 
 Getting Started
@@ -41,5 +43,7 @@ License
 Distributed under the MIT License. See LICENSE for more information.
 
 Contact
+
 Project Maintainer: Olivier Ishimwe
+
 Email: o.ishimwe@alustudent.com
